@@ -12,3 +12,4 @@ dependencies:
       - torchaudio==2.8.0
       - ultralytics
       - opencv-python
+      - label-studio
